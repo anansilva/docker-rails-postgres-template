@@ -44,7 +44,7 @@ test:
 Install webpacker:
 
 ```shell
-docker-compose run web webpacker:install
+docker-compose run web rails webpacker:install
 ```
 
 Create the database:
